@@ -21,4 +21,6 @@ This project predicts house prices based on features like area, location, BHK, b
 1. Clone the repository:
    ```bash
    git clone https://github.com/SRIMITHRA/HousePricePrediction.git
+## Author 
+SriMithra
 
